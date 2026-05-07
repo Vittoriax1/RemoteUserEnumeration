@@ -22,7 +22,7 @@ This tool is useful for:
 
 ## Example Output
 
-/path/to/image.jpg
+ExampleOutput.jpg
 
 ## Usage
 - Clone or download the repo
