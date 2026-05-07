@@ -22,7 +22,7 @@ This tool is useful for:
 
 ## Example Output
 
-!ExampleOutput.jpg
+<img width="536" height="144" alt="Example Output" src="https://github.com/user-attachments/assets/41b31eff-ff03-4710-a8c9-cdc55fe3a650" />
 
 ## Usage
 - Clone or download the repo
