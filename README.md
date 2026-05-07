@@ -7,7 +7,7 @@ This tool is useful for:
 - System administrators
 - Security analysts validating active sessions
 
-##Features
+## Features
 - Queries a remote machine by IP address
 - Resolves the hostname automatically
 - Retrieves logged‑on users via WMI
@@ -20,11 +20,11 @@ This tool is useful for:
 - Outputs an easy‑to‑read table of active domain sessions
 - Returns “No domain users found” when applicable
 
-##Example Output
+## Example Output
 
 /path/to/image.jpg
 
-##Usage
+## Usage
 - Clone or download the repo
 - Open a Powershell window with appropriate permissions
 - Modify the script to target the desired IP address:
@@ -32,12 +32,12 @@ This tool is useful for:
 - Run the script:
 --.\RemoteUserEnumeration.ps1
 
-##Requirements
+## Requirements
 - Windows PowerShell (or PowerShell 7 with WMI compatibility)
 - Network access to the remote host
 - Appropriate permissions to query WMI on the target system
 
-##How It Works
+## How It Works
 
 The script uses:
 - Resolve-DnsName to resolve hostnames
